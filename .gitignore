@@ -1,0 +1,41 @@
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Build outputs
+target/
+out/
+build/
+*.class
+
+# Logs / temp
+logs/
+*.log
+temp/
+*.tmp
+
+# Archives / generated packages
+*.zip
+*.rar
+*.7z
+
+# Local secrets
+tokens.txt
+.env
+*.key
+*.pem
+
+# Nginx local runtime files
+nginx-1.18.0/nginx.exe
+nginx-1.18.0/logs/
+nginx-1.18.0/temp/
+nginx-1.18.0/docs/
+nginx-1.18.0/contrib/
+
+# Personal course documents
+*.doc
+*.docx
